@@ -38,9 +38,12 @@ Preliminary analyses revealed that CPC was correlated with a higher likelihood o
 ---
 
 ## DS 150 Portfolio
-**Code:** [DS-150 Portfolio]()
+**Code:** [DS-150 Portfolio]("/Users/anadolny/Documents/GitHub/Data-Analytics-Portfolio/DS-150 Portfolio.md")
+
 **Description:** 
+
 **Skills:**
+
 **Technology:**
 NumPy, Matplotlib, Python
 
@@ -56,8 +59,9 @@ University of Wisconsin-Eau Claire: Bachelors Degree, Psychology, 2020-2024
 
 # Contacts
 --- 
-**Linkedin:**
-**Email:**
+**Linkedin:** [Ana Dolny Linkedin](www.linkedin.com/in/ana-dolny)
+
+**Email:** [anajdolny@gmail.com](anajdolny@gmail.com)
 
 
 
