@@ -58,6 +58,10 @@ University of Wisconsin-Eau Claire: Bachelors Degree, Psychology, 2020-2024
 <a id="item-five"></a>
 # Certificates 
 ---
+* [COVID 19 Data Analysis Using Python](https://coursera.org/share/31fa3e4e1ac9e3e133bb3d5cc05b8fe5)
+* [Python for Data Analysis: Pandas & NumPy](https://coursera.org/share/c60b74f1d5b8d7e82ba9016a6f1b3ccc)
+* [Exploratory Data Analysis With Python and Pandas](https://coursera.org/share/a1a11f559e8106f7bd2293e1bdae0717)
+* [Expressway to Data Science: Essential Math](https://coursera.org/share/0fca5e1000cd876c1cc683e707e4185c)
 
 <a id="item-six"></a>
 # Contacts
